@@ -1,0 +1,18 @@
+
+/******************************************************************/
+/* COPYRIGHT: E.C. BIRDSALL, MARCH 2016                           */
+/******************************************************************/
+
+// Include this file to include entire support library
+
+#ifndef THUNDERSUPPORT
+#define THUNDERSUPPORT
+
+
+#include "Data.hpp"
+#include "SpreadSheet.hpp"
+#include "SpreadSheetManager.hpp"
+#include "MathSpreadSheet.hpp"
+
+
+#endif
